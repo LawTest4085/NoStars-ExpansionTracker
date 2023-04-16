@@ -10,7 +10,9 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"ms-python.python"
+				"ms-python.python",
+				"bierner.markdown-preview-github-styles",
+				"yzhang.markdown-all-in-one"
 			]
 		}
 	}
